@@ -1,0 +1,87 @@
+@charset"UTF-8";
+body{
+  background-color: black;
+  margin: 0px;
+}
+div{
+  margin: auto;
+  
+  
+  
+}
+input#bts{
+  background-color: steelblue;
+  color: white;
+  margin: auto;
+  display: block;
+  border-radius: 8px;
+  inline-size: 300px;
+  font-size: 1em;
+  font-weight: bolder;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  
+}
+form{
+  margin: auto;
+}
+article{
+  color: white;
+  
+}
+header{
+  color: white;
+  background-color: steelblue;
+  padding-top:5px;
+  margin-top: 0px;
+  padding-bottom: 5px;
+  text-align: center;
+  box-shadow: 2px 0px 5px black;
+  border-radius: 10px 10px 0px 0px;
+  font-family: arial;
+  margin: 0px;
+  
+
+}
+main{
+  text-align: justify;
+  margin: auto;
+  background-color: white;
+  padding-top: 10px;
+  border-radius: 0px 2px 10px 10px;
+  box-shadow: 1px 1px 5px black;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  font-family: arial;
+  
+}
+
+p{
+  text-align: center;
+}
+input#btc{
+  background-color: white;
+  color: steelblue;
+  display: block;
+  border-radius: 8px;
+  margin: auto;
+  inline-size: 300px;
+  font-weight: bolder;
+  font-size: 16px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  
+}
+ input{
+   margin-left: 4px;
+   font-size: 1em;
+ }
+input#nome{
+  margin-left: 16px;
+}
+input#senha{
+  margin-left: 16px;
+}
+input#em{
+  margin-left: 16px;
+}
