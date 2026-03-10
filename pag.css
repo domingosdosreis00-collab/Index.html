@@ -1,0 +1,16 @@
+@charset"UTF-8";
+
+
+header>h1{
+  text-align: center;
+  background-color: cornflowerblue;
+  padding-bottom: 10px;
+}
+
+main{
+  min-width: 300px;
+  max-width: 800px;
+  background-color: cornflowerblue;
+  padding-top: 10px;
+}
+
